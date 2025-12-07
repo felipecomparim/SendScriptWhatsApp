@@ -1,4 +1,1 @@
-hello 
- // create hello world in all languages
-
-    ((.
+console.log("Hello, World!");
